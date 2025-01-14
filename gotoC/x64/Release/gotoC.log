@@ -1,0 +1,7 @@
+﻿  goto.c
+D:\Assembly Project\C\gotoC\goto.c(13,12): warning C4144: '<=': relational expression as switch expression
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  gotoC.vcxproj -> D:\Assembly Project\C\x64\Release\gotoC.exe

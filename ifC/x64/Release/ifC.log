@@ -1,0 +1,7 @@
+﻿  if.c
+D:\Assembly Project\C\ifC\if.c(8,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ifC.vcxproj -> D:\Assembly Project\C\x64\Release\ifC.exe

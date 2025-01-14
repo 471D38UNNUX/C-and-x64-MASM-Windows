@@ -1,0 +1,7 @@
+﻿  Assembling Additive.asm...
+Additive.asm(262): error A2006: undefined symbol : fprintfd
+Additive.asm(285): error A2022: instruction operands must be the same size
+Additive.asm(393): error A2082: cannot mix 16- and 32-bit registers
+Additive.asm(394): error A2082: cannot mix 16- and 32-bit registers
+Additive.asm(395): error A2082: cannot mix 16- and 32-bit registers
+D:\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml64.exe /c /nologo /Zi /Fo"x64\Debug\Additive.obj" /W3 /errorReport:prompt  /TaAdditive.asm" exited with code 1.
